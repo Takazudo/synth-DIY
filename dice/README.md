@@ -1,0 +1,1 @@
+Dice brightness change
