@@ -19,3 +19,26 @@
 ## トグルボタンをトグルスイッチに交換の部品
 
 - [トグルスイッチ ON-ON【MS610F】](https://www.marutsu.co.jp/pc/i/56377/)
+
+## チェックリスト（暫定）
+
+- CLOCKへの接続が無い合
+  - TEMPOのノブ位置に応じてステップが進む？
+  - CLK CVにCVを渡すと、テンポが変化する？
+    - CLK CVのノブ位置に応じて入力をattenuateする？
+- CLOCKにgateを入れると
+  - step毎のフェーダーが順に光る
+  - IN/CKから同じclockが出力される？
+  - step毎のフェーダーの高さに応じたCVがOUTから出力される？
+  - ADDにCVを入れると、OUTの出力がADDの入力と加算される？
+  - LEVELノブ位置に応じてLVL OUTからの出力が変化する？（おそらくstep毎のCVをattenuateする？）
+    - LVL CVにCVを綿うと、LVL OUTからの出力をattenuateする？
+- RESETへgateを入れると
+  - stepが1つ目に戻る
+- LENGTHのスイッチ操作
+  - 3の時: 3ステップ目でループする
+  - 4の時: 4ステップ目でループする
+  - 5の時: 5ステップ目でループする
+- 下部のスイッチをON／OFFスイッチ
+  - step毎にLEDが点灯する
+  - ONになっているstepの部分だけ、TRIGからgateが出力される？
