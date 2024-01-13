@@ -1,3 +1,8 @@
+- firmware
+  - https://www.ryk-modular.com/firmware-updates
+- calibration firmware
+  - https://www.ryk-modular.com/kit-construction-documents
+
 # キャリブレーション
 
 ## JOY CAL
