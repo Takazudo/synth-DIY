@@ -1,4 +1,4 @@
-# RYK Modular Night Riderキャリブレーション
+# RYK Modular Night Rider キャリブレーション
 
 ## 1. 電源ON
 
