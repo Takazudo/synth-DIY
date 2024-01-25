@@ -1,1 +1,1 @@
-Dice brightness change
+Dice brightness change firmware
